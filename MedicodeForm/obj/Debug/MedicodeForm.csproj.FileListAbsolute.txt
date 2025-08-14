@@ -1,0 +1,56 @@
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.csproj.AssemblyReference.cache
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.csproj.GenerateResource.cache
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\bin\Debug\MedicodeForm.exe.config
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\bin\Debug\MedicodeForm.exe
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\bin\Debug\MedicodeForm.pdb
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.Properties.Resources.resources
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.csproj.CoreCompileInputs.cache
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.exe
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.pdb
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.AdminDashboard.resources
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.DoctorDashboard.resources
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.Medicode.resources
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.PatientDashboard.resources
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\bin\Debug\EntityFramework.dll
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\bin\Debug\Medicode.dll
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\bin\Debug\Medicode.pdb
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\bin\Debug\Medicode.dll.config
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\bin\Debug\EntityFramework.xml
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\Medicode.E0DAA9A5.Up2Date
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.PrescriptionForm.resources
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.AppointmentForm.resources
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.DoctorForm.resources
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.PatientForm.resources
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.TreatmentForm.resources
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.exe.config
+C:\Users\Anıl\Desktop\Medicode\MedicodeForm\obj\Debug\MedicodeForm.BillsForm.resources
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\bin\Debug\MedicodeForm.exe.config
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\bin\Debug\MedicodeForm.exe
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\bin\Debug\MedicodeForm.pdb
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\bin\Debug\EntityFramework.dll
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\bin\Debug\Medicode.dll
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\bin\Debug\Medicode.pdb
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\bin\Debug\Medicode.dll.config
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\bin\Debug\EntityFramework.xml
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.csproj.AssemblyReference.cache
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.exe.config
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.AdminDashboard.resources
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.AppointmentForm.resources
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.BillsForm.resources
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.DoctorDashboard.resources
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.DoctorForm.resources
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.Medicode.resources
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.PatientDashboard.resources
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.PatientForm.resources
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.PrescriptionForm.resources
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.Properties.Resources.resources
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.TreatmentForm.resources
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.csproj.GenerateResource.cache
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.csproj.CoreCompileInputs.cache
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\Medicode.E0DAA9A5.Up2Date
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.exe
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\MedicodeForm\obj\Debug\MedicodeForm.pdb
