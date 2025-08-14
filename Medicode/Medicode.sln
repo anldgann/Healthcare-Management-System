@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medicode", "Medicode.csproj", "{7CF56E30-A1AD-4F2C-AB6C-A37DD5FFCE2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicodeForm", "..\MedicodeForm\MedicodeForm.csproj", "{979453F6-3E85-4FD7-AD95-BCD756B3899C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CF56E30-A1AD-4F2C-AB6C-A37DD5FFCE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF56E30-A1AD-4F2C-AB6C-A37DD5FFCE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF56E30-A1AD-4F2C-AB6C-A37DD5FFCE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF56E30-A1AD-4F2C-AB6C-A37DD5FFCE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979453F6-3E85-4FD7-AD95-BCD756B3899C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979453F6-3E85-4FD7-AD95-BCD756B3899C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979453F6-3E85-4FD7-AD95-BCD756B3899C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979453F6-3E85-4FD7-AD95-BCD756B3899C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E244ECCE-B8A2-4E5E-8A72-46CBAF3B718B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+C:\Users\Anıl\Desktop\Medicode\Medicode\bin\Debug\Medicode.dll.config
+C:\Users\Anıl\Desktop\Medicode\Medicode\bin\Debug\Medicode.dll
+C:\Users\Anıl\Desktop\Medicode\Medicode\bin\Debug\Medicode.pdb
+C:\Users\Anıl\Desktop\Medicode\Medicode\bin\Debug\EntityFramework.dll
+C:\Users\Anıl\Desktop\Medicode\Medicode\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anıl\Desktop\Medicode\Medicode\bin\Debug\EntityFramework.xml
+C:\Users\Anıl\Desktop\Medicode\Medicode\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anıl\Desktop\Medicode\Medicode\obj\Debug\Medicode.csproj.AssemblyReference.cache
+C:\Users\Anıl\Desktop\Medicode\Medicode\obj\Debug\Medicode.csproj.CoreCompileInputs.cache
+C:\Users\Anıl\Desktop\Medicode\Medicode\obj\Debug\Medicode.csproj.Up2Date
+C:\Users\Anıl\Desktop\Medicode\Medicode\obj\Debug\Medicode.dll
+C:\Users\Anıl\Desktop\Medicode\Medicode\obj\Debug\Medicode.pdb
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\Medicode\bin\Debug\Medicode.dll.config
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\Medicode\bin\Debug\Medicode.dll
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\Medicode\bin\Debug\Medicode.pdb
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\Medicode\bin\Debug\EntityFramework.dll
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\Medicode\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\Medicode\bin\Debug\EntityFramework.xml
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\Medicode\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\Medicode\obj\Debug\Medicode.csproj.AssemblyReference.cache
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\Medicode\obj\Debug\Medicode.csproj.CoreCompileInputs.cache
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\Medicode\obj\Debug\Medicode.csproj.Up2Date
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\Medicode\obj\Debug\Medicode.dll
+C:\Users\anild\OneDrive\Desktop\Medicode Project New\Medicodefinal\Medicode\obj\Debug\Medicode.pdb
